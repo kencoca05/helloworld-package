@@ -1,0 +1,10 @@
+{
+    "name": "kencoca/helloworld",
+    "authors": [
+        {
+            "name": "kencoca",
+            "email": "nam-le@diamge.co.jp"
+        }
+    ],
+    "require": {}
+}
