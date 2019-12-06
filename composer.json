@@ -6,5 +6,10 @@
             "email": "nam-le@diamge.co.jp"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KenCoca\\HelloWorld\\": "src"
+        }
+    }
 }
